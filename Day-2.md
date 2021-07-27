@@ -17,6 +17,7 @@ _A basic protocol for a DNA microarray is as follows:_
 1. Hybridize the labeled target to the microarray
 1. Scan the microarray and quantitate the signal
 
+##### Video: 
 [DNA Microarray Methodology](https://www.youtube.com/watch?v=0ATUjAxNf6U&ab_channel=BioNetwork) 
 
 ###
