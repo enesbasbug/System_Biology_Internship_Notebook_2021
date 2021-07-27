@@ -3,8 +3,8 @@
 1. cDNA & cRNA
 1. RNA-seq stages
 1. intron-exons
-1. transcription verilerini elde etmek icin hangi Dbleri kullanabiliriz?
-1. Hastalik bak – transkriptasyonlari yapilmis mi?
+1. databases for transcription
+1. **investigate a disease** *MISSED / CHECK THIS OUT*
 
 
 ## DNA Microarray measurement of gene expresion
@@ -44,8 +44,14 @@ Introns and exons are nucleotide sequences within a gene. Introns are removed by
 
 Introns can be considered as **in**tervening sequences, and exons as **ex**pressed sequences.
 
+##
+## Bioinformatics Databases
 
-
+"A biological database is a large, organized body of persistent data, usually associated with computerized software designed to update, query, and retrieve components of the data stored within the system. A simple database might be a single file containing many records, each of which includes the same set of information."
+A few popular databases are **GenBank from NCBI** (National Center for Biotechnology Information), **SwissProt from the Swiss Institute of Bioinformatics** and **PIR from the Protein Information Resource**.
+1. GenBank: GenBank (Genetic Sequence Databank) is one of the fastest growing repositories of known genetic sequences.
+1. EMBL: The EMBL Nucleotide Sequence Database is a comprehensive database of DNA and RNA sequences collected from the scientific literature and patent applications and directly submitted from researchers and sequencing groups.
+1. SwissProt: This is a protein sequence database that provides a high level of integration with other databases and also has a very low level of redundancy (means less identical sequences are present in the database).
 
 
 
@@ -59,3 +65,4 @@ References :
 1. https://science.jrank.org/pages/1653/Complementary-DNA.html#ixzz71pUXnPuL
 1. https://rnaseq.uoregon.edu/
 1. https://www.news-medical.net/life-sciences/What-are-introns-and-exons.aspx
+1. https://www.longdom.org/scholarly/bioinformatics-databases-journals-articles-ppts-list-2876.html
