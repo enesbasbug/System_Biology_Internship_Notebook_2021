@@ -1,7 +1,7 @@
 # Week - 1 | Day -1
 
 
-## **What is transcriptomics?**
+### **What is transcriptomics?**
 
 Definition: 
 *“The branch of genetics, that study the total RNA or mRNA present in a cell or tissue and related technologies used to study it, is called transcriptomics.”*
