@@ -27,7 +27,7 @@ _A basic protocol for a DNA microarray is as follows:_
 ### What is cRNA?
 **Complementary RNA** (cRNA) is a copy of a strand of RNA that will bind to the appropriate region of the original molecule. If the original RNA stand had a base sequence of AUU, for example, the sequence of the cRNA strand would be UAA.
 ##
-##
+
 ## A typical RNA-seq experiment consists of the following steps:
 
 1. Design Experiment. Set up the experiment to address your questions.
@@ -58,4 +58,4 @@ References :
 1. https://bitesizebio.com/7206/introduction-to-dna-microarrays/
 1. https://science.jrank.org/pages/1653/Complementary-DNA.html#ixzz71pUXnPuL
 1. https://rnaseq.uoregon.edu/
-1. 
+1. https://www.news-medical.net/life-sciences/What-are-introns-and-exons.aspx
