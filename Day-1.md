@@ -11,7 +11,7 @@ Or
 _“Using the high throughput technologies such as microarray or RNA-seq; studying the transcriptome- a total set of mRNA prsent in a cell is known as transcriptomics”_
 
 
-###### Before making the decision to go with RNA sequencing or microarrays, several questions must be answered.
+###### Before making the decision to go with RNA sequencing or microarrays, several questions must be answered..
 
 ### Practical Questions
 
