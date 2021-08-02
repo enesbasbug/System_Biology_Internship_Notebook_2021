@@ -40,6 +40,7 @@ People with certain risk factors are more likely than others to develop skin can
 1. A personal history of skin cancer.
 1. Exposure to the sun through work and play.
 1. A history of sunburns, especially early in life.
+
 _and goes on_
 
 ### Symptoms
@@ -50,12 +51,7 @@ A simple way to remember the signs of melanoma is to [**remember skin cancer**](
 
 ## R Studio
 
-I tried to practise with R cheat sheet in the R Studio. You may also give a look my work through [here]().
-
-
-
-
-
+I tried to practise with some basic code in the R cheat sheet I found on the internet and also installed the necessary libraries. Then, I downloaded the data I am interested in, and checked if it was worked. You may also give a look my work through [here](Day-6.R).
 
 
 
