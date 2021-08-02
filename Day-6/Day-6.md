@@ -1,13 +1,5 @@
 # Week - 2  
 
-## Homework
-
-1. Please select a data.
-1. Retrive your data and briefly explain the significant contents of your GSE and GPL files.
-1. Write an introduction related to the selected topic. Why did you select that data? (Give a brief information about your topic: for example, if you selected a disease, you can explain its reasons, symptoms, importance, incidence, etc.). If you selected an organism apart from human, you can also explain the importance of this organism. The introduction part should be max half-page.
-
-##
-
 ### Overview of systems biology
 System Biology -> understanding of the biological processses in a cell/organism in a holistic framework
 
@@ -24,8 +16,54 @@ Omics technologies, which systems biology brings, are valuable tools for compreh
 1. -**ome**: the objects used in an -omics field (e.g., whole genes in an organism: genome)
     1. Genome, transcriptome, proteome, metabolome ...
 
+## Homework
+
+1. Please select a data.
+1. Retrive your data and briefly explain the significant contents of your GSE and GPL files.
+1. Write an introduction related to the selected topic. Why did you select that data? (Give a brief information about your topic: for example, if you selected a disease, you can explain its reasons, symptoms, importance, incidence, etc.). If you selected an organism apart from human, you can also explain the importance of this organism. The introduction part should be max half-page.
+
+##
+
+1. The title of data I've picked is __Gene expression data from murine cutaneous squamous cell carcionma genomes induced by Sleeping Beauty transposon mutagenesis__. It's a **Mus musculus**. 
+    1. **GEO accession** : [GSE141167](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141167)
+    1.  Transcriptome analysis of **mRNA** samples from a cohort of mice with histopathologically diagnosed cutaneous squamous cell carcinoma.
+    1. It's available to analyze with GEO2R on the [website](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141167)
+    1. It has 21 Samples (11 males / 10 females)
+1. I've selected this data due to the fact that I am interested in skin cancer which I have already done a project about it with a Deep Learning model. Therefore, I'd like to learn more about this topic as long as the information in NCBI GEO helps me.
+
+1. Skin cancer is the most common cancer diagnosis, and it's the most preventable cancer. Most skin cancer is **caused by damage from the sun's ultraviolet radiation (UV rays).** Each year, the more than 96,400 people will be diagnosed with _melanoma_ -the most dangerous type of skin cancer- and about 7,200 will die of the disease.
+
+### Risk Factors
+People with certain risk factors are more likely than others to develop skin cancer. Risk factors vary for different types of skin cancer, but some general risk factors are having -
+1. A lighter natural skin color.
+1. Family history of skin cancer.
+1. A personal history of skin cancer.
+1. Exposure to the sun through work and play.
+1. A history of sunburns, especially early in life.
+_and goes on_
+
+### Symptoms
+A change in your skin is the most common sigh of skin cancer. This could be a new growth, a sore that doesn't heal, or a change in a mole. Not all skin cancers look the same.
+
+A simple way to remember the signs of melanoma is to [**remember skin cancer**](https://stayskinhealthy.org/#abcde)
+
+
+## R Studio
+
+I tried to practise with R cheat sheet in the R Studio. You may also give a look my work through [here]().
+
+
+
+
+
+
+
+
 ## 
 References :
 1. https://www.researchgate.net/publication/332339541_Integrative_Systems_Biology_Resources_and_Approaches_in_Disease_Analytics
 2. https://pubmed.ncbi.nlm.nih.gov/27686657
+3. https://www.preventcancer.org/education/preventable-cancers/skin-cancer/
+4. https://stayskinhealthy.org/#abcde
+5. https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf
 
