@@ -20,11 +20,12 @@ _System Biology is based on_ use of **omics technologies** to obtain for _constr
 Omics technologies, which systems biology brings, are valuable tools for comprehensive analyses. Automated DNA sequencers enabled the sequencing of genomes; microarray and mass spectrometry analysis permit global transcriptional profiling and lead to large-scale proteomic and metabolomics analysis. These high-throughput data need to be interpreted by bioinformatics. 
 
 1. -**omics**: the scientific fields studying of the complete set of molecules within an organism (characterization & quantification)
-Genomics, transcriptomics, proteomics, metabolomics, lipidomics, epigenomics, etc.
+    1. Genomics, transcriptomics, proteomics, metabolomics, lipidomics, epigenomics, etc.
 1. -**ome**: the objects used in an -omics field (e.g., whole genes in an organism: genome)
-Genome, transcriptome, proteome, metabolome ...
+    1. Genome, transcriptome, proteome, metabolome ...
 
 ## 
 References :
 1. https://www.researchgate.net/publication/332339541_Integrative_Systems_Biology_Resources_and_Approaches_in_Disease_Analytics
-2. 
+2. https://pubmed.ncbi.nlm.nih.gov/27686657
+
