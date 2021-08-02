@@ -6,4 +6,4 @@
 1. [Day - 5](/Day-5/Day-5.md) | _This is what I did in the first week. I just gathered whole things in one piece._
 
 ### Week - 2
-xx
+1. [Day - 6](/Day-6/) | _Overview of system biology / Omics technologies / installation of R Studio_ / **Homework**
