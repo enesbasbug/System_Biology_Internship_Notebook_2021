@@ -51,7 +51,7 @@ A simple way to remember the signs of melanoma is to [**remember skin cancer**](
 
 ## R Studio
 
-I tried to practise with some basic code in the R cheat sheet I found on the internet and also installed the necessary libraries. Then, I downloaded the data I am interested in, and checked if it was worked. You may also give a look my work through [here](Day-6.R).
+I tried to practice with some basic code in the R cheat sheet I found on the internet and also installed the necessary libraries. Then, I downloaded the data I am interested in, and checked if it was worked. You may also give a look at my work through [here](Day-6.R).
 
 
 
