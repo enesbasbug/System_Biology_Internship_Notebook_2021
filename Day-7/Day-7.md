@@ -59,7 +59,7 @@
 
 ##
 
-I tried to analyze [the data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175361) with GEO2R, and also tried to manipulate the data by changing its cut-off value and appliying adjustment to the P-values. 
+I tried to analyze [the data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175361) with GEO2R, and also tried to manipulate the data by changing its cut-off value and applying adjustment to the P-values. 
 
 1. Benjamini & Hochberg (False discovery rate) || cut-off : 0.05
 ![pict1](img1.png)
