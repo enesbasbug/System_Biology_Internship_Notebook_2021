@@ -75,7 +75,7 @@ I tried to analyze [the data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc
 
 ## 
 ### with Python, I created a new column that indicates whether that sample is bigger than the cut-off (0.05) or not.
-1. You may also give a look at this through [here](main.ipynb) 
+1. You may also give a look at this through [here](main.ipynb) (Benjamini & Hochberg (False discovery rate) and cut-off = 0.05)
 
 
 ##
