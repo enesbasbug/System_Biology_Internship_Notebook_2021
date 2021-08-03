@@ -73,6 +73,11 @@ I tried to analyze [the data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc
 1. Bonferroni || cut-off : 0.01
 ![pict2](img2.png)
 
+## 
+### with Python, I created a new column that indicates whether that sample is bigger than the cut-off (0.05) or not.
+1. You may also give a look at this through [here](main.ipynb) 
+
+
 ##
 References :
 1. https://medium.com/@itcalderon11/parametric-vs-nonparametric-statistical-tests-2de44db18760
