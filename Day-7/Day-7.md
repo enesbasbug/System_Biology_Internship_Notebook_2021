@@ -45,8 +45,7 @@
                 1. Bonferroni Correction -> The simplest FWE method
             1. False discovery rate (FDR)
                 1. Benjamini-Hochberg Correction -> A common FDR method
-                
-##
+
 1. Non-parametric test
     1. _Student's t-test has several drawbacks:_
         1. A ned for normal distribution
@@ -66,4 +65,4 @@ I tried to analyze [the data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc
 References :
 1. https://medium.com/@itcalderon11/parametric-vs-nonparametric-statistical-tests-2de44db18760
 1. https://www.nature.com/articles/6500412
-1. https://medium.com/@itcalderon11/parametric-vs-nonparametric-statistical-tests-2de44db18760
+1. https://www.youtube.com/watch?v=EUPmGWS8ik0
