@@ -62,11 +62,11 @@
 I tried to analyze [the data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175361) with GEO2R, and also tried to manipulate the data by changing its cut-off value. 
 
 1. Benjamini & Hochberg (False discovery rate) || cut-off : 0.05
-![pict1](Day-7/img1.png)
+![pict1](img1.png)
 
 
 1. Bonferroni || cut-off : 0.01
-![pict2](Day-7/img2.png)
+![pict2](img2.png)
 
 
 ##
@@ -74,3 +74,5 @@ References :
 1. https://medium.com/@itcalderon11/parametric-vs-nonparametric-statistical-tests-2de44db18760
 1. https://www.nature.com/articles/6500412
 1. https://www.youtube.com/watch?v=EUPmGWS8ik0
+
+
