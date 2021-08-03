@@ -7,4 +7,4 @@
 
 ### Week - 2
 1. [Day - 6](/Day-6/) | _Overview of system biology / Omics technologies / Installation of R Studio_ / **Homework**
-1. [Day - 7](/Day-7/) | _Different expression analysis / Fold change / Non/Parametric Test / T-test / Multiple testing correction / Analyze data with GEO2R _
+1. [Day - 7](/Day-7/) | _Different expression analysis / Fold change / Non-Parametric Test / T-test / Multiple testing correction / Analyze data with GEO2R_
