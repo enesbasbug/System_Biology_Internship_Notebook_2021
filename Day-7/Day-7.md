@@ -20,6 +20,7 @@
 ![Types of analyses and their corresponding tests
 ](https://miro.medium.com/max/1400/1*Nb8E6tpSmwSjJNkdvGUFGQ.png)
 
+##
 1. Parametric test | **Student's T-test**
     1. One of the most __commonly used__ method
     1. Proper for the _normally distributed_ samples.
@@ -44,6 +45,8 @@
                 1. Bonferroni Correction -> The simplest FWE method
             1. False discovery rate (FDR)
                 1. Benjamini-Hochberg Correction -> A common FDR method
+                
+##
 1. Non-parametric test
     1. _Student's t-test has several drawbacks:_
         1. A ned for normal distribution
