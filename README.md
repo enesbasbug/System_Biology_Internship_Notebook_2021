@@ -9,5 +9,5 @@
 1. [Day - 6](/Day-6/) | _Overview of system biology / Omics technologies / Installation of R Studio_ / **Homework**
 1. [Day - 7](/Day-7/) | _Different expression analysis / Fold change / Non\Parametric Test / Analyze data with GEO2R_
 1. [Day - 8](/Day-8/) | _R Studio Transcriptome Analysis / T-test / Benjamini-Horchberg correction / Bonferroni correction_
-1. [Day-9](/Day-9/) | Cluster analysis of transcriptome data / Hierarchial clustering method / Graphical representation of the expression data
+1. [Day-9](/Day-9/) | _Cluster analysis of transcriptome data / Hierarchial clustering method / Graphical representation of the expression data_
 1. xx[Day-10](/Day-10/) | coming soon
