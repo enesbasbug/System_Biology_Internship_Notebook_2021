@@ -10,8 +10,8 @@
 1. [Day - 7](/Week-2/Day-7/) | _Different expression analysis / Fold change / Non\Parametric Test / Analyze data with GEO2R_
 1. [Day - 8](/Week-2/Day-8/) | _R Studio Transcriptome Analysis / T-test / Benjamini-Horchberg correction / Bonferroni correction_
 1. [Day - 9](/Week-2/Day-9/) | _Cluster analysis of transcriptome data / Hierarchial clustering method / Graphical representation of the expression data_
-1. [Day - 10](/Week-2/Day-10/) | _R Studio / Heatmap / Shinyheatmap app / Gene Ontology (GO) / Go Enrichment Analysis_ **Homework**
+1. [Day - 10](/Week-2/Day-10/) | _R Studio / Heatmap / Shinyheatmap app / Gene Ontology (GO) / Go Enrichment Analysis_ / **Homework**
 
 ### Week - 3
 
-1. [Day - 11](/Week-3/Day-11.md) | _Biological Networks / Graph Theory / Topological Properties of Network_ **Homework**
+1. [Day - 11](/Week-3/Day-11.md) | _Biological Networks / Topological Properties of Network / Types of Biological Networks / Cytoscape_ / **Homework**
