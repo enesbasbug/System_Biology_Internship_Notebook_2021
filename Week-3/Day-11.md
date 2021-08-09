@@ -48,7 +48,7 @@
 
 
 # Homework
-You may have a look at my homework through [here](/homework.md)
+You may have a look at my homework through [here](homework.md)
 
 
 ## References
