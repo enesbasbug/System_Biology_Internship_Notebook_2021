@@ -5,6 +5,9 @@
 1. Download Cytoscape
 
 ![hm](hw.png){:height="50px" width="50px"}
+<img src="hw.png" width="50" height="50" alt="some_text">
+
+
 
 ##
 
