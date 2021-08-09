@@ -48,7 +48,7 @@
 
 
 # Homework
-You may have a look at my homework through [here](/Week-3/Day-11/homework.md)
+You may have a look at my homework through [here](/homework.md)
 
 
 ## References
