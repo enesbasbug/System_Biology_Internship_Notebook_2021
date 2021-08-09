@@ -4,8 +4,8 @@
 1. Find diameter and draw degree distribution graph of the network2. --- dk 14 falan
 1. Download Cytoscape
 
-![hm](hw.png){:height="50px" width="50px"}
-<img src="hw.png" width="50" height="50" alt="some_text">
+
+<img src="hw.png" width="500" height="500" alt="some_text">
 
 
 
