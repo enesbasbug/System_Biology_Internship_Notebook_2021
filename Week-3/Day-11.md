@@ -1,9 +1,10 @@
 ## 
 ### Homework
-1. Create adjacency matrix and list representation of the network 1. --- dk 6:37
-1. Find average path length, diameter and draw degree distribution of the network 1. --- dk 10:37
-1. Find diameter and draw degree distribution graph of the network2. --- dk 14 falan
+1. Create adjacency matrix and list representation of the network 1. 
+1. Find average path length, diameter and draw degree distribution of the network 1. 
+1. Find diameter and draw degree distribution graph of the network2. 
 1. Download Cytoscape
+
 
 ## Biological Network
 1. Graph Theory
@@ -47,7 +48,7 @@
 
 
 # Homework
-You may have a look at my homework through [here](/homework.md)
+You may have a look at my homework through [here](/Week-3/Day-11/homework.md)
 
 
 ## References
