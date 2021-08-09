@@ -9,5 +9,5 @@
 
 ##
 
-<img src="hw2.png" width="500" height="700" alt="some_text">
+<img src="hw2.png" width="1000" height="400" alt="some_text">
 
