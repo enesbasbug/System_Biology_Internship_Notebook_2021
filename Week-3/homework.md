@@ -5,7 +5,7 @@
 1. Download Cytoscape
 
 
-<img src="hw.png" width="500" height="500" alt="some_text">
+<img src="hw.png" width="500" height="700" alt="some_text">
 
 
 
