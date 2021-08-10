@@ -4,6 +4,8 @@
 1. Find average path length, diameter and draw degree distribution of the network 1. 
 1. Find diameter and draw degree distribution graph of the network2. 
 1. Download Cytoscape
+##
+You may have a look at my homework through [here](homework.md)
 
 
 ## Biological Network
@@ -47,8 +49,6 @@
     1. APID, PINA, ...
 
 
-# Homework
-You may have a look at my homework through [here](homework.md)
 
 
 ## References
