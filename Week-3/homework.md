@@ -8,10 +8,7 @@
 <img src="hw.png" width="500" height="700" alt="some_text">
 
 ##
-# 1. 
-<img src="hw2.png" width="1000" height="400" alt="some_text">
+# 1., 2. 
+<img src="ss.png" width="1000" height="400" alt="some_text">
 
-# 2. Average path length : 5/5 = 1; Diameter : 3
-<img src="hw3.png" width="1000" height="400" alt="some_text">
-
-# 3. COULDN'T DO IT (Diameter : 8?)
+# 3. COULDN'T DO IT (Diameter : 4)
