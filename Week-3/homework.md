@@ -11,4 +11,4 @@
 # 1., 2. 
 <img src="ss.png" width="1500" height="200" alt="some_text">
 
-# 3. COULDN'T DO IT (Diameter : 4)
+# 3. Couldn't do 'Distribution Graph', Diameter : 4
