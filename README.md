@@ -16,3 +16,4 @@
 
 1. [Day - 11](/Week-3/Day-11/Day-11.md) | _Biological Networks / Topological Properties of Network / Types of Biological Networks / Cytoscape_ / **Homework**
 1. [Day - 12](/Week-3/Day-12/Day-12.md) | _Cytoscape / Importing Network or Table / Exploring its features_
+1. [Day - 13](/Week-3/Day-13/Day-13.md) | _Subnetwork Discorvery / Pipeline / Key Path Miner (KPM) /  KPM and Cytoscape_
