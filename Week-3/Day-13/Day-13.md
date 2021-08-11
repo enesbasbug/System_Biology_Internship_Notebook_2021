@@ -24,6 +24,22 @@
 #
 We had a look at this [website](https://keypathwayminer.compbio.sdu.dk/keypathwayminer/)
 # 
+And then, We try to run with a default database on the website. However, it didn't worked well when we pressed to start. There was a problem for sure.
 ![ss](ss.png)
+
+#
+
+Eventually, we try to use KPM via Cytoscape by downloading 'keypathminer' from App Manager in the app.
+![ss](ss1.png)
+
+#
+![ss](ss2.png)
+#
+![ss](ss3.png)
+#
+
+ Tutour showed us how to use KPM in the Cytoscape, and did an example.
+
+
 
 
