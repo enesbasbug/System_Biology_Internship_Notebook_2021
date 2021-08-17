@@ -22,6 +22,6 @@
 
 ### Week - 4
 1. [Day - 16](Week-4/Day-16/Day-16.ipynb) | _Getting started with Python in Jupyter Notebooks_
-1. xx
+1. [Day - 17](Week-4/Day-17/) | _Using methods / If - elif - else practices_
 
 
